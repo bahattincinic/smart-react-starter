@@ -48,7 +48,7 @@
 
 ##### Clone the repository and:
 
-    $ git clone git@bitbucket.org:smart-education/authoring-player.git
+    $ git clone git@github.com:smart-education/react-starter.git
     $ cd authoring-ui
 
 ##### install requirements
